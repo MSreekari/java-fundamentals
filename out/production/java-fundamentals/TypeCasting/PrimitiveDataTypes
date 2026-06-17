@@ -1,9 +1,0 @@
-Number -> Integer & Float
-Integer -> 1. byte - 8 bits
-           2. short - 2 bytes
-           3. int - 4 bytes
-           4. long - 8 bytes
-Float -> 1. float - 4 bytes
-         2. double - 8 bytes
-Char -> 2 bytes
-Boolean -> byte
